@@ -1,0 +1,46 @@
+constant
+log2(p)^(1)
+constant
+constant
+constant
+n^(1)
+constant
+constant
+n^(1)
+n^(3/2)
+n^(1)
+n^(3/2)
+n^(3/2)
+n^(1)
+n^(3/2)
+n^(3/2)
+p^(1) * n^(1)
+n^(3/2)
+n^(3/2)
+n^(1)
+n^(3/2)
+n^(3/2)
+p^(1) * n^(1)
+n^(3/2)
+n^(3/2)
+n^(1)
+n^(3/2)
+n^(3/2)
+n^(1)
+n^(3/2)
+n^(3/2)
+n^(1)
+n^(3/2)
+n^(3/2)
+log2(p)^(1) * n^(1)
+p^(1)
+n^(3/2)
+log2(p)^(1) * n^(1)
+n^(3/2)
+log2(p)^(1) * n^(1)
+p^(1)
+n^(3/2)
+log2(p)^(1) * n^(1)
+constant
+constant
+constant
