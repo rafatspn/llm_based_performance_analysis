@@ -3,3 +3,27 @@ comp_pred_polaris.sh
 __pycache__/
 .venv/
 *.zip
+.env
+
+# Large data files (download separately)
+data/zenodo_benchmarks/lulesh/
+data/zenodo_benchmarks/RELeARN/
+*.tar.gz
+*.cubex
+
+# Case 2: Extracted files (regenerate from .tar.xz)
+data/case_2/DATA/
+data/case_2/OUTPUT/
+data/case_2/code_*.cpp
+data/case_2/*.sh
+data/case_2/extract_data.py
+
+# Generated datasets (regenerate with scripts/generate_dataset.py)
+data/dataset/
+dataset.json
+
+# Evaluation results - temporary files
+results/combined_data.json
+results/stratified_sample.json
+results/*_free.json
+results_deepseek_50.json

@@ -1,5 +1,31 @@
 # Case 2: MPI Kernel Benchmarks
 
+## Quick Start
+
+Extract all experiment data:
+```bash
+cd data/case_2
+for f in experiment_*.tar.xz; do tar -xf "$f"; done
+```
+
+## Dataset Statistics
+
+| Metric | Value |
+|--------|-------|
+| Total samples | 16,240 |
+| Source files | 10 (code_1.cpp ~ code_10.cpp) |
+| Complexity classes | 20+ |
+
+### Samples per code
+| Code | Samples |
+|------|---------|
+| CODE_1 | 2,317 |
+| CODE_2 | 2,086 |
+| CODE_3 | 1,624 |
+| CODE_4 | 700 |
+| CODE_5-9 | 1,624 each |
+| CODE_10 | 1,393 |
+
 ## Overview
 
 ### Motivation
